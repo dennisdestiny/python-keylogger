@@ -1,1 +1,10 @@
+Requirements Pynput
 
+This is a basic keylogger using python.
+it sends the keylogs through email
+
+How to use:
+  clone the file open the file edit the email and password.
+  
+Toturial:
+<a href="https://dennisdestiny.gq/projects/python-keylogger
